@@ -38,10 +38,14 @@ The webcam opens and detects your emotion live on screen in real-time!
 
 ---
 
-## 👩‍💻 Author
+## 👩‍💻 Team
 
-**Tanvi**  
-B.Tech Student | AI & Python Enthusiast
+| Name | Role |
+|------|------|
+| **Tanvi** | Developer & AI Enthusiast |
+| **Pradnya** | Developer & Teammate |
+
+B.Tech Students | AI & Python Project
 
 ---
 
